@@ -23,7 +23,7 @@
     "source-map-support": "^0.5.21",
     "sql-template-strings": "^2.2.2",
     "sqlite": "^5.1.1",
-    "sqlite3": "^5.1.7"
+    "sqlite3": "^5.0.2"
   },
   "secretDependencies": {
     "node-oom-heapdump": "^1.2.0"
@@ -74,11 +74,11 @@
     "@types/pg": "^8.6.5",
     "@types/sockjs": "^0.3.33",
     "@types/sodium-native": "^2.3.9",
-    "eslint": "^9.31.0",
+    "eslint": "^10.0.1",
     "globals": "^16.0.0",
-    "mocha": "^11.7.1",
+    "mocha": "^5.0.5",
     "smogon": "^3.0.0",
     "typescript": "^5.8.3",
-    "typescript-eslint": "^8.38.0"
+    "typescript-eslint": "^8.36.0"
   }
 }
